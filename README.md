@@ -63,7 +63,7 @@ Port 3000 in the host computer is forwarded to port 3000 in the virtual machine.
 
 * Node.js for the asset pipeline
 
-* Memcached and Redis
+* Memcache and Redis
 
 ## Virtual Machine Management
 
